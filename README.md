@@ -1,3 +1,5 @@
+Planlama Oyunu 
+
 Bu planlama oyunu, kullanıcılara günlük işlerini ve toplantılarını yönetmelerine yardımcı olmayı amaçlamaktadır. Kullanıcılar, bir hesap oluşturarak sisteme giriş yapabilir ve takvimlerini düzenleyebilirler. Ayrıca, tanımladıkları olaylara hatırlatmalar ekleyebilirler.
 Özellikler
 
