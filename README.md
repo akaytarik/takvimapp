@@ -14,7 +14,9 @@ Bu planlama oyunu, kullanıcılara günlük işlerini ve toplantılarını yöne
     Olay Hatırlatma: Tanımlanan olaylar, belirlenen zamanlarda kullanıcılara hatırlatma olarak gösterilecektir. Kullanıcılar, olay başlangıcından önce bir çağrı sesi veya belirli bir süre önce hatırlatma seçeneğini tercih edebilirler.
 
 ///
-    ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/beb65b67-e402-43e1-862d-4729003eab02) ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/b1172d82-527b-42ab-9121-a08d6ca9562a) ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/98f1e101-eacb-4673-8899-0fa936a9a91e) ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/29406d8d-30f7-4b63-a00c-148ca0cb0add)
+    ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/beb65b67-e402-43e1-862d-4729003eab02) ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/b1172d82-527b-42ab-9121-a08d6ca9562a)
+    
+    ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/98f1e101-eacb-4673-8899-0fa936a9a91e) ![resim](https://github.com/akaytarik/takvimapp/assets/113722912/29406d8d-30f7-4b63-a00c-148ca0cb0add)
 
 
 
