@@ -1,30 +1,26 @@
-User Story-1: Sisteme Kayıt
-Bu hikaye, kullanıcıların sisteme kaydolabilmesini sağlar. Kullanıcılar aşağıdaki bilgileri yazılıma girerek sisteme kayıt olabilirler:
+Bu planlama oyunu, kullanıcılara günlük işlerini ve toplantılarını yönetmelerine yardımcı olmayı amaçlamaktadır. Kullanıcılar, bir hesap oluşturarak sisteme giriş yapabilir ve takvimlerini düzenleyebilirler. Ayrıca, tanımladıkları olaylara hatırlatmalar ekleyebilirler.
+Özellikler
 
-    Ad
-    Soyad
-    Kullanıcı Adı
-    Şifre
-    TC Kimlik No
-    Telefon
-    E-posta
-    Adres
-    Kullanıcı Türü
+    Kullanıcı Kaydı ve Girişi: Kullanıcılar, sisteme kaydolarak hesaplarını oluşturabilir ve giriş yapabilirler. Kayıt sırasında, kullanıcıların ad, soyad, kullanıcı adı, şifre, TC Kimlik No, telefon, e-posta, adres ve kullanıcı tipi gibi bilgileri girmeleri gerekmektedir.
 
-User Story-2: Takvim Olayı Tanımlama
-Bu hikaye, kullanıcıların istedikleri zaman olaylar tanımlayabilmesini sağlar. Bir toplantı veya iş planı gibi bir olayı gelecek bir zaman dilimi için oluşturabilirler.
+    Takvim Görüntüleme: Kullanıcılar, takvim uygulamasını kullanarak istedikleri tarihte olaylar tanımlayabilirler. Bu olaylar, toplantılar, dersler, işler gibi çeşitli kategoriler altında olabilir. Kullanıcılar, takvimdeki olayları görüntüleyebilir, düzenleyebilir, silebilir ve güncelleyebilirler.
 
-User Story-3: Takvimi Görüntüleme ve Düzenleme
-Bu hikaye, kullanıcıların uygulamayı açtığında istedikleri bir güne gidebilmesini ve o günle ilgili toplantı ve/veya işleri görüntüleyebilmelerini sağlar. Kullanıcılar istedikleri olayları silme veya güncelleme seçeneğine sahiptir.
+    Olay Tanımlama: Kullanıcılar, takvim uygulamasını kullanarak istedikleri bir zaman diliminde olaylar tanımlayabilirler. Olayın başlangıç zamanı, süresi, tipi ve açıklaması gibi bilgileri girebilirler. Tanımlanan olaylar, takvimde görüntülenecektir.
 
-User Story-4: Olay Hatırlatma
-Bu hikaye, kullanıcıların tanımladıkları olaylar için hatırlatma seçeneklerine sahip olmalarını sağlar. Bir olayın başlangıç zamanına gelindiğinde bir çağrı sesi ile hatırlatma yapılabilir veya olaydan önce belirli bir süre önce hatırlatma seçeneği sunulabilir.
+    Olay Hatırlatma: Tanımlanan olaylar, belirlenen zamanlarda kullanıcılara hatırlatma olarak gösterilecektir. Kullanıcılar, olay başlangıcından önce bir çağrı sesi veya belirli bir süre önce hatırlatma seçeneğini tercih edebilirler.
 
-Opsiyonel: Farklı Takvimlerin Uygulamaya Eklenmesi
-Bu opsiyonel özellik, farklı takvimlerin uygulamaya eklenmesini sağlar. Bu özellik, farklı takvimleri kullanmak isteyen kullanıcılar için ek bir esneklik sağlar.
+Ekranlar
 
-Ekranlar:
+    Login Ekranı / Kullanıcı Kayıt Ekranı: Kullanıcılar, sisteme giriş yapmak veya yeni bir hesap oluşturmak için bu ekranı kullanabilirler. Gerekli bilgileri girdikten sonra sisteme erişim sağlayabilirler.
 
-    Login Ekranı / Kullanıcı Kayıt Ekranı: Kullanıcıların sisteme giriş yapabilmeleri veya kayıt olabilmeleri için kullanılan ekran.
-    Takvimi Görüntüle: Kullanıcıların takvimi görüntüleyebildiği bir ekran. Bu ekranda kullanıcılar istedikleri güne gidebilir ve o günle ilgili toplantı ve/veya işleri görebilirler.
-    Olay Tanımlama Ekranı: Kullanıcıların olayları tanımlayabildiği bir ekran. Bu ekran kullanıcıya olayın başlangıç zamanını, tipini ve açıklamasını girmek için bir form sunar
+    Takvimi Görüntüle: Bu ekran, kullanıcıların takvimlerini görüntüleyebilecekleri ana ekranıdır. Kullanıcılar, istedikleri tarihleri seçerek o güne ait olayları görebilir ve düzenleyebilirler.
+
+    Olay Tanımlama Ekranı: Bu ekran, kullanıcıların yeni olayları tanımlayabilecekleri bir form sunar. Kullanıcılar, olayın başlangıç zamanını, süresini, tipini ve açıklamasını girerek olayı tanımlayabilirler.
+
+Kurulum
+
+    Bu projeyi GitHub üzerinden klonlayın veya indirin.
+    Dosyaları bir web sunucusuna veya yerel bir sunucuya yükleyin.
+    Login Ekranı / Kullanıcı Kayıt Ekranı için "login.html" dosyasını açın.
+    Takvimi Görüntüle ekranı için "calendar.html" dosyasını açın.
+    Olay Tanımlama Ekranı için "event.html" dosyasını açın.
